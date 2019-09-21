@@ -40,7 +40,7 @@ To use this project.
 ```
 
 ##  :page_facing_up: Resources
-- [PyGame Documentation](https://www.pygame.org/docs/) : Pygame is a cross-platform set of PHP modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the PHP programming language.
+ - [PHP](https://phptherightway.com) : PHP: Hypertext Preprocessor is a general-purpose programming language originally designed for web development.
 
 ##  :camera: Gallery
 
