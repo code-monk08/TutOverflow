@@ -40,7 +40,7 @@ To use this project.
 ```
 
 ##  :page_facing_up: Resources
- - [PHP](https://phptherightway.com) : PHP: Hypertext Preprocessor is a general-purpose programming language originally designed for web development.
+ - [PHP](https://phptherightway.com) : PHP is a Hypertext Preprocessor is a general-purpose programming language originally designed for web development.
 
 ##  :camera: Gallery
 
