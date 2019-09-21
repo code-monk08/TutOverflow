@@ -1,1 +1,0 @@
-### ELASTIC SEARCH

@@ -1,1 +1,0 @@
-1. Blog - https://gist.github.com/anchetaWern/6150297
